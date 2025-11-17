@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Karan Daksh. And I'm a Frontend Developer from Quokka Labs.</h3>
+<h3 align="left">My name is Karan Daksh. And I'm a Frontend Developer, Currently Open to New Opportunities..</h3>
 
 ###
 
